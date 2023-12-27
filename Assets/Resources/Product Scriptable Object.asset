@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 102e281c56b16b349a0705e752177f66, type: 3}
+  m_Name: Product Scriptable Object
+  m_EditorClassIdentifier: 
+  productInfos:
+  - ProductType: 2
+    Processtime: 2
+    EarnMoneyAmount: 10
+    EarnExpAmount: 20
+  - ProductType: 3
+    Processtime: 4
+    EarnMoneyAmount: 40
+    EarnExpAmount: 30
+  - ProductType: 4
+    Processtime: 8
+    EarnMoneyAmount: 80
+    EarnExpAmount: 40
+  - ProductType: 5
+    Processtime: 16
+    EarnMoneyAmount: 320
+    EarnExpAmount: 50
